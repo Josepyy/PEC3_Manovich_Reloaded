@@ -51,6 +51,9 @@ Otra de las ventajas que tiene, es que, Amazon Go te permite ver en directo todo
 
 ![imagen](https://github.com/Josepyy/PEC3_Manovich_Reloaded/assets/133910072/34e48999-7602-470a-848e-82cc60d51b34)
 
+## Conclusiones
+Lo que más me ha sorprendido ha sido como se ha creado esa hibridación entre la tecnología y el comercio tradicional. Han logrado una hibridación que jamás antes se había llegado a pensar, no tanto a este nivel. Siempre han habido avances, e intentos de proyecto, pero nunca como está demostrando Amazon. En pocas palabras, han proporcionado una experiencia de compra eficiente, transparente y que te permite tener un mayor control de tus actos sin necesidad de terceros. Esto me hace creer que tiene mucho potencial, así que no me extrañaría ver de aquí un futuro no muy lejano, ver como se transforman la forma en las que las personas realizan las compras. 
+
 ### Referencias y Bibliografía
 - Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 - Adell, Ferran. (2014). "Remediación, multimedia e hibridación de los medios". UOC.
