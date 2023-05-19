@@ -10,3 +10,5 @@ El concepto de hibridación para **Lev Manovich**, se refiere a la interacción 
 Como dato, no es solo una mezcla de formas culturales, sino una mezcla de modos de representación, de lenguajes y de la tecnología. No solo se combina formas culturales con los nuevos medios, sino que generan formas nuevas híbridas. 
 
 ![imagen](https://github.com/Josepyy/PEC3_Manovich_Reloaded/assets/133910072/37cfeb50-6c21-4c38-86f8-fa12b7cbcad8) 
+
+# Re-descubriendo la hibridacion: Caso 1 Fornite
