@@ -48,3 +48,12 @@ Otra de las ventajas que tiene, es que, Amazon Go te permite ver en directo todo
 
 ![imagen](https://github.com/Josepyy/PEC3_Manovich_Reloaded/assets/133910072/34e48999-7602-470a-848e-82cc60d51b34)
 
+### Referencias y Bibliografía
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+- Adell, Ferran. (2014). "Remediación, multimedia e hibridación de los medios". UOC.
+- McMillan, Robert (2012). "Lord of the Files: How GitHub Tamed Free Software (And More)". UOC.
+- Imagenes extraidas de www.freepik.es 
+          -https://www.freepik.es/foto-gratis/fondo-red-empresarial-conexion-puntos-diseno-tecnologia_21629783.htm#query=combinacion%20tecnllogica&position=48&from_view=search&track=ais
+          -https://www.freepik.es/foto-gratis/jugador-vista-lateral-jugando-interior_33263513.htm#query=Fortnite&position=11&from_view=search&track=sph
+          -https://www.freepik.es/foto-gratis/concepto-pedido-bloque-madera-icono-cesta-papel-mesa-azul-plana-mano-hombre-apuntando_10183639.htm#query=amazon%20go&position=24&from_view=search&track=ais
+          
