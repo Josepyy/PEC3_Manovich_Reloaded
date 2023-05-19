@@ -30,3 +30,21 @@ Fortnite va siempre un paso más allá. En el 2020 organizó un evento en colabo
  
 # Re-descubriendo la hibridacion: Caso 2, Amazon Go
 
+Cuando hablamos de Amazon, estamos hablando de ese gigante a nivel mundial, capaz de venderte cualquier producto a cualquier hora y tenerlo antes de que te lo pienses en la puerta de tu casa. Es una de las empresas más grandes del mundo, junto a su fundador, la persona más rica del planeta, capaz de seguir revolucionando la industria y creando casos de hibridación claros, como en este caso, Amazon Go. 
+
+Amazon Go es una tienda de comestibles, como cualquier otra, pero desarrollada por Amazon. Esto hace que Amazon Go sea la única capaz de automatizar cualquier problema que hay cuando vamos a nuestro supermercado de confianza, aplicando sus avances y adaptabilidad. 
+
+El concepto es simple, los clientes ingresan a la tienda con su teléfono inteligente, escanean un código QR en la aplicación oficial y luego cogen el producto que quieren de los estantes y lo ponen en su carrito. A medida que vas cogiendo más producto, las tecnologías que hay alrededor del local, como los sensores, la visión computacional, entre otras formas, rastrean y registran de forma automática todos los elementos que estás cogiendo y se añaden de esta forma tu carrito de tu cuenta de Amazon. 
+
+Una vez que ya has seleccionado y tienes en tu carrito todos los productos que necesitas, lo único que tienes que hacer es salir directamente por la tienda, no hay que pasar por caja registradora o escanear de nuevo el producto. La tecnología de Amazon Go rastrea y registra de manera clara todos los productos que hayas tomado, y en tu cuenta de Amazon se carga de forma automática con la suma total descontándote y realizando un cobro normal. 
+
+Como podemos observar, la hibridación se da en la convergencia y sinergia de diferentes tecnologías. Por un lado, se combina la visión por computadora, algoritmos avanzados que lo que hace es permitir los sensores detectar qué producto han sido tomados de los estantes, haciendo así un seguimiento exacto de los elementos seleccionados. En resumen, vemos una tecnología de reconocimiento de objetos, análisis de imágenes y algoritmos de aprendizaje para registrar e identificar cada producto escogido por nosotros. 
+
+Como dato, hay que tener en cuenta que dichos establecimientos están completamente lleno de sensores. Se sitúan en las puertas, en los estantes, techos, paredes, etc. Hay sensores de peso, de proximidad, entre otros, para detectar la selección y los movimientos del producto. 
+
+La hibridación en este caso se manifiesta de forma automática a los clientes. Amazon ha combinado la comodidad y la eficiencia de las compras que solemos hacer en línea con la experiencia de comprar en una tienda física. Piensa que, al eliminar, como por ejemplo, la cola en las cajas, es una necesidad menos que hace que la experiencia de compra sea mucho menos tediosa, donde puedes entrar, comprar lo que necesitas y salir rápidamente. 
+
+Otra de las ventajas que tiene, es que, Amazon Go te permite ver en directo todos los productos que tienes en tu carrito, haciendo así que tengas un control mucho más visual y exacto de lo que llevas y el coste total que tendrías que pagar. Esto lo que está haciendo es proporcionar una transparencia y un control adicional sobre las compras que estás realizando en ese mismo instante, lo que permite al cliente estar a un más informado y tomar decisiones correctas. 
+
+![imagen](https://github.com/Josepyy/PEC3_Manovich_Reloaded/assets/133910072/34e48999-7602-470a-848e-82cc60d51b34)
+
