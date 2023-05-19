@@ -24,4 +24,4 @@ Uno de los casos más claro sería cuando empezó a colaborar con artistas de ta
  
  Como dato, los jugadores pueden adquirir aspectos, gestos, objetos, decoración, para personalizar a sus personajes y destacar entre los jugadores. Esto ha sido una oportunidad para la hibridación de marcas de moda, ya que los jugadores pueden seguir llevando las últimas tendencias dentro del juego, como creando una identidad virtual única. 
  
- 
+Fortnite va siempre un paso más allá. En el 2020 organizó un evento en colaboración con la película de Christopher Nolan, "Tenet", donde el tráiler de dicho largometraje fue proyectado en exclusiva dentro del juego. Como podemos ver, entre conciertos en vivo, marcas de ropa, colaboraciones con artistas, y ahora un tráiler en exclusiva de una película, Fortnite está aprovechando al máximo su popularidad y su base con todos sus fieles jugadores para convertirse en un medio de comunicación híbrido que supera lo impensable cuando nos referimos a un simple juego. 
