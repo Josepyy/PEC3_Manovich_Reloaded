@@ -28,3 +28,5 @@ Fortnite va siempre un paso más allá. En el 2020 organizó un evento en colabo
 
 ![imagen](https://github.com/Josepyy/PEC3_Manovich_Reloaded/assets/133910072/49388763-e313-4890-a5d2-0266636e9148)
  
+# Re-descubriendo la hibridacion: Caso 2, Amazon Go
+
