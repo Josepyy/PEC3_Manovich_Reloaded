@@ -63,3 +63,6 @@ Lo que más me ha sorprendido ha sido como se ha creado esa hibridación entre l
 - https://www.freepik.es/foto-gratis/jugador-vista-lateral-jugando-interior_33263513.htm#query=Fortnite&position=11&from_view=search&track=sph
 - https://www.freepik.es/foto-gratis/concepto-pedido-bloque-madera-icono-cesta-papel-mesa-azul-plana-mano-hombre-apuntando_10183639.htm#query=amazon%20go&position=24&from_view=search&track=ais
           
+----
+
+Licencia: Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
