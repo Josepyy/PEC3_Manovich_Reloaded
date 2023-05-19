@@ -11,4 +11,4 @@ Como dato, no es solo una mezcla de formas culturales, sino una mezcla de modos 
 
 ![imagen](https://github.com/Josepyy/PEC3_Manovich_Reloaded/assets/133910072/37cfeb50-6c21-4c38-86f8-fa12b7cbcad8) 
 
-# Re-descubriendo la hibridacion: Caso 1 Fornite
+# Re-descubriendo la hibridacion: Caso 1, Fornite
