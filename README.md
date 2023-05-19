@@ -28,6 +28,9 @@ Fortnite va siempre un paso más allá. En el 2020 organizó un evento en colabo
 
 ![imagen](https://github.com/Josepyy/PEC3_Manovich_Reloaded/assets/133910072/49388763-e313-4890-a5d2-0266636e9148)
  
+## Conclusiones 
+Como curiosidad, hemos visto como un videojuego ha podrido combinar elementos de diferentes culturas, música, moda y eventos en vivo para crear esa experiencia única. Bajo mi punta de vista, que una plataforma, que sin mirar mucho más allá, parece el típico juego de supervivencia, es sorprendente lo que ha logrado, una experiencia inmersiva, una personalización exquisita, ya sea por los personajes, aspectos, fomentando la hibridación de la moda y la cultura juvenil dentro de una pantalla. Es algo impensable no hará muchos años. Además, el enfoque de hibridación ha permitido que la marca se expanda más allá de los límites de los juegos tradicionales y atraiga a un público más amplio. En pocas palabras, ha logrado combinar elementos como música, moda, eventos en vivo y los videojuegos, destacando claramente la hibridación. 
+
 # Re-descubriendo la hibridacion: Caso 2, Amazon Go
 
 Cuando hablamos de Amazon, estamos hablando de ese gigante a nivel mundial, capaz de venderte cualquier producto a cualquier hora y tenerlo antes de que te lo pienses en la puerta de tu casa. Es una de las empresas más grandes del mundo, junto a su fundador, la persona más rica del planeta, capaz de seguir revolucionando la industria y creando casos de hibridación claros, como en este caso, Amazon Go. 
